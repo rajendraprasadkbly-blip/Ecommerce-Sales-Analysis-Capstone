@@ -1,0 +1,11 @@
+Order ID,Order Date,Customer,Customer Segment,Category,Sub-Category,Product Name,Quantity,Price,Discount,Sales,Profit,Region
+ORD100001,2024-01-03,Customer_1023,Consumer,Electronics,Mobile,Phone Model A,2,1800,10,3240,648,South
+ORD100002,2024-01-05,Customer_1102,Consumer,Clothing,Men,Shirt M1,1,750,0,750,188,North
+ORD100003,2024-01-09,Customer_1478,Corporate,Home & Kitchen,Furniture,Chair,1,2200,5,2090,418,East
+ORD100004,2024-01-11,Customer_1682,Consumer,Beauty,Skincare,Moisturizer,3,450,0,1350,270,South
+ORD100005,2024-01-15,Customer_1775,Consumer,Sports,Fitness,Yoga Mat,2,900,15,1530,306,West
+ORD100006,2024-01-18,Customer_1302,Home Office,Electronics,Laptop,Laptop X,1,52000,10,46800,8424,South
+ORD100007,2024-01-21,Customer_1255,Consumer,Clothing,Women,Dress W1,1,1200,0,1200,300,North
+ORD100008,2024-01-25,Customer_1784,Consumer,Home & Kitchen,Kitchenware,Pan,2,650,0,1300,195,Central
+ORD100009,2024-01-29,Customer_1210,Corporate,Beauty,Makeup,Lipstick,4,300,5,1140,228,East
+ORD100010,2024-02-02,Customer_1781,Consumer,Sports,Outdoor,Backpack,1,1800,10,1620,486,South
